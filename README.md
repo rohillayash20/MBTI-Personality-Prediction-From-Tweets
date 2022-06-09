@@ -31,7 +31,3 @@ This dataset contains over 8600 rows of data, on each row is a person’s:
 => Type (This persons 4 letter MBTI code/type)
 
 =>A section of each of the last 50 things they have posted (Each entry separated by "|||" (3 pipe characters))
-
-#### LINK to the Dataset
-
-https://www.kaggle.com/datasets/datasnaek/mbti-type
